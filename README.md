@@ -11,4 +11,9 @@ https://www.pinterest.co.uk/pin/407083253795944776/
 Reading:
 https://www.ichess.net/blog/chess-pieces-moves/
 
+
+Note: This project not apply the rules of chess-game, it's main focus is to implement the knowledge of arrays , functions and pointers. It is a cpp(c++) code, which mainly focuses on the implementation of pointers and arrays.
+
+  Project's main objective was to make a chess like game in which only Knight and king functionality can be applied, the game doesn't gave the functionality of all chess pieces. In this at the start positions are restricted to be assign the positions that are attack free. As said above the rules re not applied, the knight can kill king by moving towards kill and if king is killed game is ended and similarly if any one of knight is killed the game is ended again. Another way to end game is by entering the desired option to finish the game. Reminding again that don't mix it with real chess game because no chess rules are followed. This focuses on the moves and implementation of arrays, functions and pointers in cpp(c++).
+ 
   
